@@ -4,7 +4,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <ProjectGuid>{437637CD-E53E-4109-BFEA-0361C211EED8}</ProjectGuid>
+    <ProjectGuid>{B59A21AD-9DEA-4B68-A7B1-08F2C6398768}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>HelloTizenCI</RootNamespace>
     <AssemblyName>HelloTizenCI</AssemblyName>

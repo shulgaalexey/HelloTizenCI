@@ -7,7 +7,7 @@
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectTypeGuids>{2F98DAC9-6F16-457B-AED7-D43CAC379341};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <ProjectGuid>{97D301E0-6338-4E65-A477-FFCA5B904616}</ProjectGuid>
+    <ProjectGuid>{9931A260-9BA8-442D-A584-9252A71FE797}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>HelloTizenCI.TizenMobile</RootNamespace>
@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HelloTizenCI\HelloTizenCI.csproj">
-      <Project>{437637cd-e53e-4109-bfea-0361c211eed8}</Project>
+      <Project>{b59a21ad-9dea-4b68-a7b1-08f2c6398768}</Project>
       <Name>HelloTizenCI</Name>
     </ProjectReference>
   </ItemGroup>

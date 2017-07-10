@@ -4062,10 +4062,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Projects\\HelloTizenCI\\HelloTizenCI\\HelloTizenCI.TizenMobile\\HelloTizenCI.TizenMobile.csproj",
+      "projectUniqueName": "C:\\Projects\\tmp\\HelloTizenCI\\HelloTizenCI\\HelloTizenCI.TizenMobile\\HelloTizenCI.TizenMobile.csproj",
       "projectName": "HelloTizenCI.TizenMobile",
-      "projectPath": "C:\\Projects\\HelloTizenCI\\HelloTizenCI\\HelloTizenCI.TizenMobile\\HelloTizenCI.TizenMobile.csproj",
-      "projectJsonPath": "C:\\Projects\\HelloTizenCI\\HelloTizenCI\\HelloTizenCI.TizenMobile\\HelloTizenCI.TizenMobile.project.json",
+      "projectPath": "C:\\Projects\\tmp\\HelloTizenCI\\HelloTizenCI\\HelloTizenCI.TizenMobile\\HelloTizenCI.TizenMobile.csproj",
+      "projectJsonPath": "C:\\Projects\\tmp\\HelloTizenCI\\HelloTizenCI\\HelloTizenCI.TizenMobile\\HelloTizenCI.TizenMobile.project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
